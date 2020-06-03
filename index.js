@@ -28,3 +28,7 @@ function insertIntoList(SLL, item) {
 //evaluate the time complexity
 
 //can it be made better? how?
+//ASK FOR A REAL WORLD example!!
+
+//stable matching problem, Gale Shapely problem is polynomial time
+//successful marriage algo draw it, talk about it, connect to your own apps.
